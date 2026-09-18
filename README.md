@@ -30,12 +30,12 @@
 
 **调用格式：**
 ```
-https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/{频道名}.png
+https://raw.githubusercontent.com/yijielish-max/IPTV/refs/heads/main/logo/{频道名}.png
 ```
 
 **调用示例：**
-- 央视一套 → `https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png`
-- 湖南卫视 → `https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视.png`
+- 央视一套 → `https://raw.githubusercontent.com/yijielish-max/IPTV/refs/heads/main/logo/CCTV1.png`
+- 湖南卫视 → `https://raw.githubusercontent.com/yijielish-max/IPTV/refs/heads/main/logo/湖南卫视.png`
 
 **覆盖范围：** 央视全频道、省级卫视、主流地方频道、数字付费频道、特色网络频道等。
 
@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/{频道名}.png
 3.  **自定义配置**（可选）：
     - 修改 `.github/workflows/` 目录下的 YAML 文件，可以调整更新频率、添加自定义数据源等。
 4.  **使用自有资源**：
-    - 将资源链接中的 `CCSH/IPTV` 替换为 `你的用户名/IPTV` 即可调用自己仓库的资源。
+    - 将资源链接中的 `yijielish-max/IPTV` 替换为 `你的用户名/IPTV` 即可调用自己仓库的资源。
 5.  **手动触发更新**：
     - 在 **Actions** 页面，选择对应的工作流，点击 **Run workflow** 可随时手动更新。
 
@@ -112,7 +112,7 @@ Copyright © 2024-PRESENT CCSH
 ## 🎁 支持与赞赏
 如果这个工具对您有帮助，并希望支持项目的持续维护与优化，欢迎通过下方的赞赏码给予鼓励。感谢您的认可！
 
-![赞赏码](https://raw.githubusercontent.com/CCSH/CCSH/refs/heads/main/ccsh.png)
+![赞赏码]()
 
 ---
 **祝您使用愉快！** 
