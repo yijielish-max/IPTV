@@ -22,8 +22,8 @@
 
 | 格式 | 直链地址 | 核心特点 |
 | :--- | :--- | :--- |
-| **XML** | [e.xml](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml) | 原始格式，兼容性最佳，适配所有播放器 |
-| **GZ** | [e.xml.gz](https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz) | 压缩格式，体积大幅减小，传输更快 |
+| **XML** | [e.xml](https://raw.githubusercontent.com/yijielish-max/IPTV/refs/heads/main/e.xml) | 原始格式，兼容性最佳，适配所有播放器 |
+| **GZ** | [e.xml.gz](https://raw.githubusercontent.com/yijielish-max/IPTV/refs/heads/main/e.xml.gz) | 压缩格式，体积大幅减小，传输更快 |
 
 ### 台标 LOGO
 采用标准化命名规则，与直播源频道名一一对应，可直接在播放器中自动加载显示。
