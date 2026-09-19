@@ -112,7 +112,7 @@ Copyright © 2024-PRESENT CCSH
 ## 🎁 支持与赞赏
 如果这个工具对您有帮助，并希望支持项目的持续维护与优化，欢迎通过下方的赞赏码给予鼓励。感谢您的认可！
 
-![赞赏码]()
+![赞赏码](<img width="1080" height="1620" alt="1789783332222" src="https://github.com/user-attachments/assets/4c1ba371-7920-4724-9daa-af8a3af81030" /> <img width="1118" height="1524" alt="mm_facetoface_collect_qrcode_1789783368493" src="https://github.com/user-attachments/assets/a25ae6a0-3eb6-4e31-843b-d134ebe7cb6a" />)
 
 ---
 **祝您使用愉快！** 
